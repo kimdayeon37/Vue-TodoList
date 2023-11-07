@@ -1,6 +1,6 @@
-# todo-list
+# Vue를 사용한 간단한 todo-list
 
-## 기술 스택
+## ⚡ 기술 스택
 <img src="https://img.shields.io/badge/vue-4FC08D?style=for-the-badge&logo=vue&logoColor=white"> <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
 
 
